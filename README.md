@@ -1,59 +1,15 @@
 # RockinARecipes
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.5.
+## Just my recipes
+This is just a nice way to access the recipes I like. I got tired of using a variey of methods to actually reference my recipes such as Google sheets, text messages, and certain blogs. Just a UI to compile and see all my recipes in one place.
 
-## Development server
+## How you can use it
+Obviously, you are more than welcome to cook anything on here! This can also be forked and set up to access your own recipes. At the moment, the only things you would have to change are the title and icon, and then add your own recipes.
 
-To start a local development server, run:
+## Goals
+- Desktop view
+- Mobile view
+- API to my recipes
 
-```bash
-ng serve
-```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Note 
+This is purely meant to make it easier for recipe access. I am not profiting on any of these recipes. Many of them are not "MY" recipes. They are ones I use from different blogs and YouTube videos. I will always do my best to link the source material.
