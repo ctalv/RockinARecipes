@@ -1,0 +1,52 @@
+[
+  {
+    "id": "",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "title": "",
+    "description": "",
+    "time": {
+      "prep": 0,
+      "cook": 0,
+      "bake": 0,
+      "rest": 0
+    },
+    "ingredients": [
+      {
+        "name": "",
+        "quantity": "",
+        "quantity-type": "",
+        "prep": "",
+        "notes": false
+      }
+    ],
+    "instructions": [
+      {
+        "step": 0,
+        "instruction": "",
+        "photo": "optional"
+      }
+    ],
+    "contributors": [
+      "",
+      ""
+    ],
+    "internet-credits": [
+      "",
+      ""
+    ],
+    "notes": [
+      "",
+      ""
+    ],
+    "key-photo": "",
+    "photos": [
+      "",
+      ""
+    ],
+    "story": ""
+  }
+]
